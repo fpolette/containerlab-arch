@@ -2,7 +2,7 @@
 pkgname=containerlab
 pkgver=0.19.1
 pkgrel=1
-pkgdesc="Containerlab provides a CLI for orchestrating and managing container-based networking labs."
+pkgdesc="Provides a CLI for orchestrating and managing container-based networking labs."
 arch=('x86_64')
 url="https://containerlab.srlinux.dev/"
 license=('BSD')
