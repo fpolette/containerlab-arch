@@ -19,3 +19,4 @@ package() {
 
   # Install Binary
   install -Dm755 $srcdir/containerlab $pkgdir/usr/bin/containerlab
+}
