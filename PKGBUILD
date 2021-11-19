@@ -1,6 +1,6 @@
 # Maintainer: Fabien POLETTE <fabien.polette@protonmail.com>
 pkgname=containerlab
-pkgver=0.19.1
+pkgver=0.20.1
 pkgrel=1
 pkgdesc="Provides a CLI for orchestrating and managing container-based networking labs."
 arch=('x86_64')
