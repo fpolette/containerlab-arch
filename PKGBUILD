@@ -10,7 +10,7 @@ groups=()
 depends=('docker')
 changelog=
 source=("https://github.com/srl-labs/${pkgname}/releases/download/v${pkgver}/${pkgname}_${pkgver}_Linux_amd64.tar.gz")
-sha256sums=('f5d50b6ade5ba2f54510e1887c8cc5a6212c51ba62df8e16e7afcaf17a6f4203')
+sha256sums=('dbe4629474a01ec67952b0a176d5766941c3a5dc615f806679e6a0ebf37ea979')
 
 package() {
   # Install Configurations examples
